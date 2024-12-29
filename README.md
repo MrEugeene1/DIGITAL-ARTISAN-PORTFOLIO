@@ -69,5 +69,6 @@ Contributions are welcome! Please follow these steps:
 
 ## **`ACKNOWLEDGEMENTS`**
   - Inspired by modern UI/UX design principles.
+  -  **FIGMA**
   - Fonts: Google Fonts (Poppins).
   - Special thanks to Ade-mir and the YouTube channel How to Become a Developer for their inspiring content and innovative ideas foor this  this project.
